@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_service_more_service_mores",
+  "info": {
+    "displayName": "service_more"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}
